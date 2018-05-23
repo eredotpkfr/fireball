@@ -1,7 +1,7 @@
 # fire_Ball
 Python3.5
 
--------- HOW TO USE ? -------
+-------- How To Use ? --------
 1.First Download Script.
 2.Install All Requirement Modules(I Wrote "requirements.txt").
 3.Finally Use It.
@@ -13,7 +13,7 @@ root@kali:~/Desktop/fire_Ball# pip install -r requirements.txt
 root@kali:~/Desktop/fire_Ball# python3 fire_Ball.py
 
 -------- USAGE VİDEO --------
-https://youtu.be/gmL7t2IYXjo
+
 
 -------- NOTE --------
 This Is My Second Shared Script So It Include Some Bugs. 
