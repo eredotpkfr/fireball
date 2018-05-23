@@ -1,6 +1,3 @@
-# fire_Ball
-Python3.5
-
 -------- How To Use ? --------
 1.First Download Script.
 2.Install All Requirement Modules(I Wrote "requirements.txt").
