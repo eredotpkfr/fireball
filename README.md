@@ -1,18 +1,18 @@
--------- How To Use ? --------
-1.First Download Script.
-2.Install All Requirement Modules(I Wrote "requirements.txt").
-3.Finally Use It.
+HOW TO USE ? >>
+1.First Download Script. >> 
+2.Install All Requirement Modules(I Wrote "requirements.txt").>> 
+3.Finally Use It.>>
 
--------- BEFORE RUN --------
+BEFORE RUN >>
 root@kali:~/Desktop/fire_Ball# pip install -r requirements.txt
 
--------- RUN --------
+RUN >>
 root@kali:~/Desktop/fire_Ball# python3 fire_Ball.py
 
--------- USAGE VİDEO --------
+USAGE VİDEO AND EXAMPLES >>
 https://youtu.be/gmL7t2IYXjo
 
--------- NOTE --------
+NOTE >>
 This Is My Second Shared Script So It Include Some Bugs. 
 Bugs Are Fixed Coming Soon(Bugs Will Be Fixing). 
 Follow Me On Twitter (https://twitter.com/YoksulErdogan?lang=tr). 
