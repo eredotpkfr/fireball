@@ -1,7 +1,7 @@
 HOW TO USE ? >>
 First Download Script. >> 
-Install All Requirement Modules(I Wrote "requirements.txt").>> 
-Finally Use It.>>
+Install All Requirement Modules(I Wrote "requirements.txt"). >> 
+Finally Use It. >>
 
 BEFORE RUN >>
 root@kali:~/Desktop/fire_Ball# pip install -r requirements.txt
