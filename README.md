@@ -12,7 +12,7 @@ root@kali:~/Desktop/fire_Ball# python3 fire_Ball.py
 //USAGE VİDEO AND EXAMPLES >>
 https://youtu.be/gmL7t2IYXjo
 
-//NOTE >>
+//NOTE 
 - This Is My Second Shared Script So It Include Some Bugs. 
 - Bugs Are Fixed Coming Soon(Bugs Will Be Fixing). 
 - Follow Me On Twitter (https://twitter.com/YoksulErdogan?lang=tr). 
