@@ -2,7 +2,7 @@ beautifulsoup4==4.6.0
 
 requests==2.20.0
 
-urllib3==1.22
+urllib3==1.23
 
 progressbar==2.3
 
