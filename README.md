@@ -12,7 +12,7 @@
 ### USAGE VİDEO AND EXAMPLES 
 * https://youtu.be/gmL7t2IYXjo
 
-### SOME NOTES 
+### SOME NOTES !
 * This Is My Second Shared Script So It Include Some Bugs. 
 * Bugs Are Fixed Coming Soon(Bugs Will Be Fixing). 
 * Follow Me On Twitter (https://twitter.com/YoksulErdogan?lang=tr). 
