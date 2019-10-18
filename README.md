@@ -14,9 +14,9 @@
 
 #### SCREENSHOTS
 <br/>
-![Screenshot from 2019-10-18 15-19-10](https://user-images.githubusercontent.com/25153177/67093709-ea61cd80-f1ba-11e9-923b-862d243d9ad5.png)
+![alt text](https://user-images.githubusercontent.com/25153177/67093709-ea61cd80-f1ba-11e9-923b-862d243d9ad5.png)
 <br/>
-![Screenshot from 2019-10-18 15-19-14](https://user-images.githubusercontent.com/25153177/67093733-f8afe980-f1ba-11e9-9a39-3130dcd65229.png)
+![alt text](https://user-images.githubusercontent.com/25153177/67093733-f8afe980-f1ba-11e9-9a39-3130dcd65229.png)
 <br/>
 ### SOME NOTES !
 * This Is My Second Shared Script So It Include Some Bugs. 
