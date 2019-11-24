@@ -4,7 +4,7 @@
 3. Finally Use It.
 
 #### BEFORE RUN
-`root@kali:~/Desktop/fire_Ball# pip install -r requirements.txt`
+`root@kali:~/Desktop/fire_Ball# pip3 install -r requirements.txt`
 
 #### RUN
 `root@kali:~/Desktop/fire_Ball# python3 fire_Ball.py`
