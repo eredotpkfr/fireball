@@ -27,7 +27,7 @@ def function_MainMenu():
  ✄╰╯╱╱╰┻╯╰━━┻━━━┻╯╰┻━┻━╯"""+'\033[0m')
     print("\n"+'\033[95m'+"[*] Version ........... 1.0"+'\033[0m')
     print('\033[95m'+"[*] Author  ........... Eredot_PK&FR"+'\033[0m')
-    print('\033[95m'+"[*] Twitter ........... @YoksulErdogan"+'\033[0m')
+    print('\033[95m'+"[*] Twitter ........... @eredot_pkfr"+'\033[0m')
     print('\033[95m'+"[*] GitHub  ........... @eredotpkfr"+'\033[0m')
     print('\033[95m'+"[*] Linkedin........... @ErdoğanYoksul"+'\033[0m')
     print('\033[95m'+"[*] Note !  ........... 0=={::::::::::::>\n"+'\033[0m')
